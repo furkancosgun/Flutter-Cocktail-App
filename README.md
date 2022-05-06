@@ -9,11 +9,11 @@
 *Main Page*
 ![ss](https://github.com/Furkannc/Flutter-Cocktail-App/blob/main/cocktail_app/img/Screenshot_1651829499.png?raw=true)
 -
-Detail Page:
+*Detail Page:*
 ![enter image description here](https://github.com/Furkannc/Flutter-Cocktail-App/blob/main/cocktail_app/img/Screenshot_1651829503.png?raw=true)
 -
-Search Page:
+*Search Page:*
 ![enter image description here](https://github.com/Furkannc/Flutter-Cocktail-App/blob/main/cocktail_app/img/Screenshot_1651829546.png?raw=true)
 -
-Liked Cocktails Page:
+*Liked Cocktails Page:*
 ![enter image description here](https://github.com/Furkannc/Flutter-Cocktail-App/blob/main/cocktail_app/img/Screenshot_1651829537.png?raw=true)
